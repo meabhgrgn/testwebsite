@@ -1,2 +1,2 @@
-# testwebsite
+# info
 website for competition
