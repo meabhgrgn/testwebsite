@@ -1,0 +1,13 @@
+h1 {font-size: 20px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+div {font-size: 18px;
+	font-family: Helvetica;
+	color: black;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
